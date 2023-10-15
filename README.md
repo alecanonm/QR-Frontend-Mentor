@@ -1,2 +1,6 @@
 # QR-Frontend-Mentor
-QR to practice  basic of html and css
+
+This is a challengue from <strong>Frontend Mentor</strong> just to put in practice my skills
+
+- HTML
+- CSS
